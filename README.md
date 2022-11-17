@@ -1,5 +1,7 @@
 ## 🖥️ 스터디 소개
 매주 캐글에 올라온 주요 코드를 각자 필사하고 온라인 발제 및 코드리뷰하는 스터디입니다.
+
+https://amazing-duckling-f20.notion.site/e4dd783e05db4d8b8ae2cce13295da27
 <br>
 
 ## 🕰️ 진행 기간
