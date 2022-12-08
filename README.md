@@ -15,7 +15,7 @@ https://amazing-duckling-f20.notion.site/e4dd783e05db4d8b8ae2cce13295da27
  - 이태희 : 11/17
 
 ## 커리큘럼
-![image](https://user-images.githubusercontent.com/69462995/206221376-8e56d081-d34f-4021-a3c8-cf418df74bbf.png)
+![image](https://user-images.githubusercontent.com/69462995/206429047-dcb43bc2-fc45-4cec-bffd-2f6dc6a26b24.png)
 
 ## 📌 진행방식
 - 스터디가 있는 날까지 해당 주차에 배정된 캐글 주제를 필사
